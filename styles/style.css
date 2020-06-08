@@ -1,0 +1,27 @@
+html {
+  font-size: 16px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+  font-family: placeholder: Light 300;
+  background-color: #4AC4B8 ;
+}
+h1 {
+	font-size: 60x;
+	text-align: center;
+}
+p, li{
+	font-size: 16
+	line-height: 2;
+}
+
+body {
+	width: 1280px;
+	margin: 0 auto;
+	background-color: #FFE819;
+	padding: 0 10px 10px 10px;
+	border: 5px solid black;
+}
+h1{
+	margin: 0;
+	padding: 20px, 0;
+	color: #4AC4B8;
+	text-shadow: 2px 2px 3px white;
+}
